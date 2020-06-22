@@ -1,0 +1,2 @@
+tokenHesh = b'2W\x0cg\x00zY\xebT\xd9\n\xeaT\x8e}\x94EZ\xa8\xab\xcc\xec\xff\x94\x96\x92\xd0\xd1\xc4>X\xf8'
+gameLow = "Привет! Нажав на кнопку /GiveMePicture вы получите картинку, вам нужно написать боту название объекта изображенного на картинке, на финском языке!"
